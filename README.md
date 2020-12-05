@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👯 I've been busy looking for an internship, such as back-end engineer, client-side engineer...
+It's not so easy for me, because I have so many labs to do!!! QAQ
+  
+  
+📫 How to reach me: 814750204@qq.com
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lincyaw&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincyaw&theme=dark)
