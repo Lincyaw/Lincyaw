@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 - ⚡ I'm a third-year student of Harbin Institute of Technology(shenzhen).
-- 👯 I've been busy looking for an internship, such as back-end engineer, client-side engineer...
-It's not so easy for me, because I have so many labs to do!!! QAQ
+- 👯 I'm interested in the distributed systems, etc. 
 - 📫 How to reach me: 814750204@qq.com
+- 😄 Here is my own blog : [http://lincyaw.xyz](http://lincyaw.xyz)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincyaw&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lincyaw&show_icons=true&theme=dark&count_private=true)
