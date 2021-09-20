@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- ⚡ I'm a third-year student of Harbin Institute of Technology(shenzhen).
+- ⚡ I'm a last-year student of Harbin Institute of Technology(shenzhen).
 - 👯 I'm interested in the distributed systems, etc. 
 - 📫 How to reach me: 814750204@qq.com
 - 😄 Here is my own blog : [http://lincyaw.xyz](http://lincyaw.xyz)
