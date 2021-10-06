@@ -5,42 +5,42 @@
 
 # EDUCATION
 
-- Harbin Institute of Technology, Shenzhen
-- School of Computer Science and Technology	Sept. 2018 - Jul. 2022 
-- Major: Computer Science
+- **Harbin Institute of Technology, Shenzhen**
+  - School of Computer Science and Technology	Sept. 2018 - Jul. 2022 
+  - Major: Computer Science
 
 # COURSE DESIGNS (SELECTED)
 
-- Software Design and Development Practice	Nov. - Dec. 2020
+- **Software Design and Development Practice	Nov. - Dec. 2020**
   - Designed and developed a book-keeping app which aimed in protecting the privacy of the user
 
-- Mit 6.824 Distributed System Design	May - Aug. 2021
+- **Mit 6.824 Distributed System Design	Aug. 2021-Now**
   - Used Golang to build a key/value storage system with a consensus algorithm (Raft).
 
 # EXCHANGE ACTIVITIES
 
-- Summer Exchange at NUS	Jul. - Aug. 2019
+- **Summer Exchange at NUS	Jul. - Aug. 2019**
   - Used R to crawl the application data of Google and Apple platforms and analyze the data so as to provide ideas for application developers and certain evaluation standards for consumers
 
 # INTERNSHIP
 
-- Apulis Technology Inc.(Subordinate Enterprise of Shenzhen Tsinghua University Research Institute, Artificial Intelligence R&D Center)
+- **Apulis Technology Inc.(Subordinate Enterprise of Shenzhen Tsinghua University Research Institute, Artificial Intelligence R&D Center)**
   - Back-end Developer Intern	May - Jul. 2021
     - Used Golang to build a set of web services such as file storage service, log dumping service and business service
     - Learned the concept of cloud native, and Golang technical stack (docker, kubernetes, etc.)
 
-- OS Tutorial Summer of Code 2020    Aug. 2020                                                                                                       
+- **OS Tutorial Summer of Code 2020    Aug. 2020**                                                                                                       
   - Learned operating system and Rust programming language within one month
   - Joined the testing work for zCore (Google’s OS kernel, Zircon, implemented with Rust)
 
 # COMPETITION & AWARD
 
-- 2021 National Student Computer System Ability Competition, Operating System Design Competition, Second Prize	Mar. - Aug. 2021
-- Joined the Functional Design Track, optimized the module called ZRAM in the Linux kernel for performance tuning
+- **2021 National Student Computer System Ability Competition, Operating System Design Competition, Second Prize	Mar. - Aug. 2021**
+  - Joined the Functional Design Track, optimized the module called ZRAM in the Linux kernel for performance tuning
 
 # SKILLS
 
-- Computer
+- **Computer**
   - Proficient in C, C++, Go
-- English
+- **English**
   - IELTS 6.5
