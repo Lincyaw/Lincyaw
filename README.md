@@ -1,25 +1,46 @@
-### Hi there 👋
+# PERSONAL INFOMATION
 
-<!--
-**Lincyaw/Lincyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- ⚡ I'm a last-year student of Harbin Institute of Technology(shenzhen).
-- 👯 I'm interested in the distributed systems, etc. 
 - 📫 How to reach me: 814750204@qq.com
-- 😄 Here is my own blog : [http://lincyaw.xyz](http://lincyaw.xyz)
+- 😄 Blog : [https://lincyaw.xyz](https://www.lincyaw.xyz)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincyaw&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lincyaw&show_icons=true&theme=dark&count_private=true)
+# EDUCATION
+
+- Harbin Institute of Technology, Shenzhen
+- School of Computer Science and Technology	Sept. 2018 - Jul. 2022 
+- Major: Computer Science
+
+# COURSE DESIGNS (SELECTED)
+
+- Software Design and Development Practice	Nov. - Dec. 2020
+  - Designed and developed a book-keeping app which aimed in protecting the privacy of the user
+
+- Mit 6.824 Distributed System Design	May - Aug. 2021
+  - Used Golang to build a key/value storage system with a consensus algorithm (Raft).
+
+# EXCHANGE ACTIVITIES
+
+- Summer Exchange at NUS	Jul. - Aug. 2019
+  - Used R to crawl the application data of Google and Apple platforms and analyze the data so as to provide ideas for application developers and certain evaluation standards for consumers
+
+# INTERNSHIP
+
+- Apulis Technology Inc.(Subordinate Enterprise of Shenzhen Tsinghua University Research Institute, Artificial Intelligence R&D Center)
+  - Back-end Developer Intern	May - Jul. 2021
+    - Used Golang to build a set of web services such as file storage service, log dumping service and business service
+    - Learned the concept of cloud native, and Golang technical stack (docker, kubernetes, etc.)
+
+- OS Tutorial Summer of Code 2020    Aug. 2020                                                                                                       
+  - Learned operating system and Rust programming language within one month
+  - Joined the testing work for zCore (Google’s OS kernel, Zircon, implemented with Rust)
+
+# COMPETITION & AWARD
+
+- 2021 National Student Computer System Ability Competition, Operating System Design Competition, Second Prize	Mar. - Aug. 2021
+- Joined the Functional Design Track, optimized the module called ZRAM in the Linux kernel for performance tuning
+
+# SKILLS
+
+- Computer
+  - Proficient in C, C++, Go
+- English
+  - IELTS 6.5
