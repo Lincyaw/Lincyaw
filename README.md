@@ -24,6 +24,12 @@
 
 ## INTERNSHIP
 
+- **HUAWEI Technologies Co. Ltd.** 
+  - Cloud Computing Development Engineer Intern      Oct. 2021 to Present
+    - Carry out enhanced development based on Hyperledger Fabric to make node storage independent of local file system and form a node storage architecture for pure cloud storage;
+    - Provide Hyperledger Fabric node operation capability and ensure the consistency and security of cloud data.
+    - Further optimize cloud storage, including but not limited to selecting different storage schemes adaptively according to the cold and hot degree of data and the type of data, so as to reduce the number of ledger backups and save costs while ensuring the normal operation of node verification function.
+
 - **Apulis Technology Inc.(Subordinate Enterprise of Shenzhen Tsinghua University Research Institute, Artificial Intelligence R&D Center)**
   - Back-end Developer Intern	May - Jul. 2021
     - Used Golang to build a set of web services such as file storage service, log dumping service and business service
