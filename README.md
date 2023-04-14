@@ -5,6 +5,10 @@
 
 ## EDUCATION
 
+- **Chinese University of Hong Kong, Shenzhen**
+  - School of Computer Science and Technology	Jan. 2023 - Jan. 2025 
+  - Major: Computer Information and Technology Mphil
+
 - **Harbin Institute of Technology, Shenzhen**
   - School of Computer Science and Technology	Sept. 2018 - Jul. 2022 
   - Major: Computer Science
