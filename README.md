@@ -1,7 +1,7 @@
 ## PERSONAL INFOMATION
 
 - 📫 How to reach me: 222010547@link.cuhk.edu.cn
-- 😄 Blog : [www.aoyangfang.top](http://www.aoyangfang.top)
+- 😄 Blog : http://profile.aoyangfang.top/
 
 ## EDUCATION
 
