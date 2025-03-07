@@ -5,7 +5,10 @@
 
 ## EDUCATION
 
-- **Chinese University of Hong Kong, Shenzhen** Jan. 2023 - Jan. 2025 
+- **Chinese University of Hong Kong, Shenzhen** Sept. 2024 - July. 2028
+  - Major: Computer Science Phd Student
+
+- **Chinese University of Hong Kong, Shenzhen** Jan. 2023 - July. 2024 
   - Major: Computer Information and Technology Mphil
 
 - **Harbin Institute of Technology, Shenzhen**
